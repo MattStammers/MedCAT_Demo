@@ -110,6 +110,7 @@ ENV/
 env.bak/
 venv.bak/
 medcat/
+DATA_DIR/
 
 # Spyder project settings
 .spyderproject
